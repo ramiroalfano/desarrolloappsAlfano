@@ -9,9 +9,7 @@ export default function App() {
       <Button title='agregar'/>
       </View>
       <View >
-      <Text styles={styles.text}>item1</Text>
-      <Text styles={styles.text}>item2</Text>
-      <Text styles={styles.text}>item3</Text>
+      <Text styles={styles.text}>Hola coder</Text>
       </View>
     </View>
 
